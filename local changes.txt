@@ -1,0 +1,10 @@
+How do you see the files changed within each commit using GitHub Desktop GUI?
+How do you see the contents of what changed within each file for a commit?
+How do you revert (backout) a commit?
+What does HEAD refer to in the context of git?
+
+We can see the files changed under CHANGES 
+We see it on Local changes, it should say there's a new change - push to github
+discard the changes on the local desctop github by the right click
+The HEAD in Git is the pointer to the current branch reference, 
+which is a pointer to the last commit we made or the last commit that was checked out into our working directory. 
